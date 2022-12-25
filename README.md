@@ -14,7 +14,11 @@ Feature
 5. comment (CRUD)
 
 dependencies
-recoil | react-router-dom | moment | react | tailwindcss | 
+1. recoil  
+2. react-router-dom  
+3. moment 
+4. react 
+5. tailwindcss 
 
 
 
